@@ -77,6 +77,7 @@ If you run the release version, use the corresponding branch, for example `yazi-
 | `hide-preview` | Switch the preview pane between hidden and shown | https://github.com/yazi-rs/plugins/tree/main/hide-preview.yazi |
 | `jump-to-char` | Vim-like f<char>, jump to the next file whose name starts with <char> | https://github.com/yazi-rs/plugins/tree/main/jump-to-char.yazi |
 | `max-preview` | Maximize or restore the preview pane | https://github.com/yazi-rs/plugins/tree/main/max-preview.yazi |
+| `mediainfo` | Preview media files with thumbnails and metadata using mediainfo | https://github.com/boydaihungst/mediainfo.yazi |
 | `open-with-cmd` | This is a Yazi plugin for opening files with a prompted command. | https://github.com/Ape/open-with-cmd.yazi |
 | `ouch` | A Yazi plugin to preview archives | https://github.com/ndtoan96/ouch.yazi |
 | `recycle-bin` | Comprehensive trash management for Yazi with browse, restore, and delete capabilities | https://github.com/uhs-robert/recycle-bin.yazi |
