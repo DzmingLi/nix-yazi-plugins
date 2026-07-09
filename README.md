@@ -69,6 +69,7 @@ If you run the release version, use the corresponding branch, for example `yazi-
 | `bookmarks` | A Yazi plugin that adds the basic functionality of vi-like marks | https://github.com/dedukun/bookmarks.yazi |
 | `bypass` | Skip directories with only a single sub-directory | https://github.com/Rolv-Apneseth/bypass.yazi |
 | `chmod` | Execute chmod on the selected files to change their mode | https://github.com/yazi-rs/plugins/tree/main/chmod.yazi |
+| `compress` | Yazi plugin that compresses selected files to an archive | https://github.com/KKV9/compress.yazi |
 | `copy-file-contents` | Copy the contents of a file to clipboard directly from Yazi | https://github.com/AnirudhG07/plugins-yazi/tree/main/copy-file-contents.yazi |
 | `exifaudio` | Preview audio files metadata on yazi | https://github.com/Sonico98/exifaudio.yazi |
 | `full-border` | Add a full border to Yazi to make it look fancier | https://github.com/yazi-rs/plugins/tree/main/full-border.yazi|
