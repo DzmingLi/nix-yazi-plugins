@@ -1,5 +1,4 @@
 {
-  pkgs,
   lib,
   config,
   ...
@@ -59,11 +58,7 @@ in
   };
   config = {
     programs.yazi = {
-      package = lib.mkIf (cfg.runtimeDeps != [ ]) (
-        pkgs.yazi.override {
-          extraPackages = config.programs.yazi.yaziPlugins.runtimeDeps;
-        }
-      );
+      extraPackages = cfg.runtimeDeps;
       initLua =
         let
           luaFormat = lib.generators.toLua { };
